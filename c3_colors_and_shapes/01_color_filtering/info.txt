@@ -1,0 +1,29 @@
+Using img01.jpg and img02.jpg, extracting green regions:
+RGB:
+10 90
+40 255
+0 60
+
+HSV:
+40 80
+60 255
+32 255
+
+canva black HSV: 
+00	118
+00	193
+00 	141
+green HSV 
+035-75
+057-199
+051-191
+
+pink HSV
+10-19
+0-250
+38-229
+
+blue HSV
+93-161
+7-160
+130-169
